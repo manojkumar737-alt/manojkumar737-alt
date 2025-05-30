@@ -8,7 +8,7 @@ Seeking a dynamic role in IT OPS Support, leveraging expertise in **Unix, Shell 
 - **BCA (2008-2011)** - M.J.P.R. University, Bareilly  
 
 ## 💡 Core Competencies  
-- **Programming:** Python, Shell scripting, C  
+- **Programming:** Python, Shell scripting, 
 - **Operating Systems:** Unix, AIX, Linux, Sun Solaris  
 - **Databases:** MySQL, DB2, Oracle, PostgreSQL  
 - **Tools & Technologies:** WinSCP, Cyber-Ark, Docker, Git, GitHub, Stash, Jenkins, Kubernetes, Bitbucket  
@@ -18,14 +18,14 @@ Seeking a dynamic role in IT OPS Support, leveraging expertise in **Unix, Shell 
 - **Infrastructure Automation:** Writing Shell/Python scripts for **system configuration, deployments, and monitoring** (Crontab/Autosys).  
 - **CI/CD Management:** Streamlining software delivery pipelines using **Git, Stash, and Jenkins**.  
 - **Containerization & Orchestration:** Managing **Docker & Kubernetes** for deployment, rollback, scaling, and monitoring.  
-- **Application Support:** Troubleshooting Unix-based environments, **log analysis, RCA, and Autosys batch monitoring**.  
+- **Application Support:** Troubleshooting **log analysis, RCA, and Autosys batch monitoring**.  
 - **Monitoring & Logging:** Using **Splunk, AppDynamics, Kibana** to track system health and performance.  
 - **Security & Compliance:** Implementing best practices for **secure deployments, version updates, and access control**.  
 - **Database Administration:** Configuring alerts for **tablespace, deadlocks, partitioning** (hands-on with DB2/MySQL/Oracle).  
 
 ## 🏢 Work History  
-### **1. Tech Lead (OPS Support) | Morgan Stanley | Feb 2022 – Present**  
-- Automated Unix/Linux system monitoring using **Python & Shell scripts**.  
+### **1. Tech Lead (OPS Support) | Morgan Stanley(onpayroll-genpact) | Feb 2022 – Present**  
+- Configured lots of **Autosys** job for reporting/Alert using **Python & Shell scripts**.  
 - Designed **Jenkins pipelines** for CI/CD & used **Git/Stash** for version control.  
 - Managed **Docker containers & Kubernetes clusters** for scalable deployments.  
 - Implemented **Splunk for log analysis** and optimized SQL databases.  
