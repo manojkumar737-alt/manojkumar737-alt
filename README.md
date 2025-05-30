@@ -1,4 +1,4 @@
-# Manoj Kumar - OPS Support Tech Lead
+# Manoj Kumar - OPS-Tech Lead
 
 ## 📌 Career Objective  
 Seeking a dynamic role in IT OPS Support, leveraging expertise in **Unix, Shell Scripting, SQL, and Python** to automate processes, enhance operational efficiency, and optimize infrastructure performance. Passionate about **implementing scalable solutions** to streamline workflows and improve system reliability.
