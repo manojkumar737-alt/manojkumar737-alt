@@ -5,7 +5,13 @@ Seeking a dynamic role in IT OPS Support, leveraging expertise in **Unix, Shell 
 
 ## 📚 Qualifications  
 - **MSc-IT (2011-2014)** - PTU University, Punjab  
-- **BCA (2008-2011)** - M.J.P.R. University, Bareilly  
+- **BCA (2008-2011)** - M.J.P.R. University, Bareilly
+
+## 🎓 Certifications  
+- **LinkedIn Certificate in [Course Name]** – [Year]  
+- **Other Relevant Certifications** – [Year]  
+
+📜 *View My LinkedIn Profile:* [LinkedIn Profile](#)  
 
 ## 💡 Core Competencies  
 - **Programming:** Python, Shell scripting, 
