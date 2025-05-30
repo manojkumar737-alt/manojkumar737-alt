@@ -8,10 +8,10 @@ Seeking a dynamic role in IT OPS Support, leveraging expertise in **Unix, Shell 
 - **BCA (2008-2011)** - M.J.P.R. University, Bareilly
 
 ## 🎓 Certifications  
-- **LinkedIn Certificate in [Course Name]** – [Year]  
-- **Other Relevant Certifications** – [Year]  
+- **LinkedIn Certificate in Learning Linux Shell Scripting** – 2025
+- **LinkedIn Certificate in Responsible AI:Principle and practical Applications** – 2025  
 
-📜 *View My LinkedIn Profile:* [LinkedIn Profile](#)  
+📜 *View My LinkedIn Profile:* www.linkedin.com/in/manoj-kumar-82488299  
 
 ## 💡 Core Competencies  
 - **Programming:** Python, Shell scripting, 
