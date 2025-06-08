@@ -1,7 +1,8 @@
-# Manoj Kumar - OPS-Tech Lead
+# Manoj Kumar - Tech Lead (OPS/Application Support)
 
-## 📌 Career Objective  
-Seeking a dynamic role in IT OPS Support, leveraging expertise in **Unix, Shell Scripting, SQL, and Python** to automate processes, enhance operational efficiency, and optimize infrastructure performance. Passionate about **implementing scalable solutions** to streamline workflows and improve system reliability.
+## 📌 Professional Summary 
+Highly skilled Tech Lead (OPS & Application Support) with 12+ years of experience across banking, telecom, and financial domains. Expertise in Unix, Shell Scripting, Python, and IT infrastructure automation. Adept at cloud computing (AWS), database management (MySQL, Oracle, DB2), and DevOps (Docker, Kubernetes, Jenkins, GitHub, Autosys). Passionate about streamlining workflows, optimizing system performance, and implementing scalable solutions.
+
 
 ## 📚 Qualifications  
 - **MSc-IT (2011-2014)** - PTU University, Punjab  
@@ -13,12 +14,15 @@ Seeking a dynamic role in IT OPS Support, leveraging expertise in **Unix, Shell 
 
 📜 *View My LinkedIn Profile:* www.linkedin.com/in/manoj-kumar-82488299  
 
-## 💡 Core Competencies  
-- **Programming:** Python, Shell scripting, 
-- **Operating Systems:** Unix, AIX, Linux, Sun Solaris  
-- **Databases:** MySQL, DB2, Oracle, PostgreSQL  
-- **Tools & Technologies:** WinSCP, Cyber-Ark, Docker, Git, GitHub, Stash, Jenkins, Kubernetes, Bitbucket  
-- **Scheduling:** Crontab, Autosys  
+## 💡 Technical Skills
+- **Programming**: Python, Shell Scripting
+- **Databases**: MySQL, Oracle, DB2 (partitioning, table space optimization, deadlock handling)
+- **Cloud Platforms**: AWS (EC2, S3, EBS, ELB, IAM, RDS)
+- **DevOps Tools**: GitHub, Bitbucket, Stash, Jenkins, Kubernetes, Docker, Autosys
+- **Monitoring & Logging**: Splunk, Kibana, AppDynamics
+- **Security & Complianc**e: SWIFT banking systems, PCI-DSS standards
+- **Operating Systems**: Unix, AIX, Linux, Solaris (application monitoring, system optimization)
+ 
 
 ## 🔧 Roles & Responsibilities  
 - **Infrastructure Automation:** Writing Shell/Python scripts for **system configuration, deployments, and monitoring** (Crontab/Autosys).  
