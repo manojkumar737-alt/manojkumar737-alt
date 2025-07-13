@@ -38,7 +38,8 @@ Highly skilled Tech Lead (OPS & Application Support) with 12+ years of experienc
 - Configured lots of **Autosys** job for reporting/Alert using **Python & Shell scripts**.  
 - Designed **Jenkins pipelines** for CI/CD & used **Git/Stash** for version control.  
 - Managed **Docker containers & Kubernetes clusters** for scalable deployments.  
-- Implemented **Splunk for log analysis** and optimized SQL databases.  
+- Implemented **Splunk for log analysis** and optimized SQL databases.
+- Application support- Batch monitoring, componenet issue fix, hygine task like as perl/python/msjava/ossjava libreary upgrade.  
 
 ### **2. Senior Software Engineer | Wipro | Aug 2021 – Feb 2022**  
 - Maintained **Business Support Systems (BSS)** for telecom billing.  
