@@ -1,4 +1,4 @@
-# Manoj Kumar - Tech Lead (OPS/Application Support)
+# Manoj Kumar - SRE Engineer (OPS/Application Support)
 
 ## 📌 Professional Summary 
 Highly skilled Tech Lead (OPS & Application Support) with 12+ years of experience across banking, telecom, and financial domains. Expertise in Unix, Shell Scripting, Python, and IT infrastructure automation. Adept at cloud computing (AWS), database management (MySQL, Oracle, DB2), and DevOps (Docker, Kubernetes, Jenkins, GitHub, Autosys). Passionate about streamlining workflows, optimizing system performance, and implementing scalable solutions.
