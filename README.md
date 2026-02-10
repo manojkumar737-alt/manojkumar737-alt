@@ -17,9 +17,10 @@ Highly skilled Tech Lead (OPS & Application Support) with 12+ years of experienc
 ## 💡 Technical Skills
 - **Programming**: Python, Shell Scripting
 - **Databases**: MySQL, Oracle, DB2 (partitioning, table space optimization, deadlock handling)
-- **Cloud Platforms**: AWS (EC2, S3, EBS, ELB, IAM, RDS)
+- **Cloud Platforms**: AWS (EC2, S3, EBS, ELB, IAM, RDS),Azure
 - **DevOps Tools**: GitHub, Bitbucket, Stash, Jenkins, Kubernetes, Docker, Autosys
-- **Monitoring & Logging**: Splunk, Kibana, AppDynamics
+- **Monitoring & Logging**: Splunk, Kibana, AppDynamics,Grafana,Prometheus
+- **IOC: Terraform,Ansible
 - **Security & Complianc**e: SWIFT banking systems, PCI-DSS standards
 - **Operating Systems**: Unix, AIX, Linux, Solaris (application monitoring, system optimization)
  
