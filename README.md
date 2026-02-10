@@ -35,12 +35,17 @@ Highly skilled Tech Lead (OPS & Application Support) with 12+ years of experienc
 - **Database Administration:** Configuring alerts for **tablespace, deadlocks, partitioning** (hands-on with DB2/MySQL/Oracle).  
 
 ## 🏢 Work History  
-### **1. Tech Lead (OPS Support) | Morgan Stanley(onpayroll-genpact) | Feb 2022 – Present**  
-- Configured lots of **Autosys** job for reporting/Alert using **Python & Shell scripts**.  
-- Designed **Jenkins pipelines** for CI/CD & used **Git/Stash** for version control.  
-- Managed **Docker containers & Kubernetes clusters** for scalable deployments.  
-- Implemented **Splunk for log analysis** and optimized SQL databases.
-- Application support- Batch monitoring, componenet issue fix, hygine task like as perl/python/msjava/ossjava libreary upgrade.  
+### **1. Tech Lead (OPS Support) | Morgan Stanley(onpayroll-genpact) | Feb 2022 – Sep 2025**  
+- Configured and managed **AutoSys jobs** for reporting and alerting using **Python and Shell scripting**.  
+- Designed and maintained **Jenkins CI/CD pipelines**, using **Git and Stash** for version control.  
+- Administered **Docker containers** and supported **Kubernetes clusters** for scalable deployments.  
+- Implemented and optimized **Splunk dashboards and alerts** for log analysis and incident troubleshooting.  
+- Configured **Grafana dashboards and alert rules** for proactive monitoring.  
+- Provided **production application support**, including:
+  - Batch job monitoring and failure resolution  
+  - Component-level issue analysis and fixes  
+  - Routine hygiene tasks such as **Perl, Python, MS Java, and OSS Java library upgrades**
+  
 
 ### **2. Senior Software Engineer | Wipro | Aug 2021 – Feb 2022**  
 - Maintained **Business Support Systems (BSS)** for telecom billing.  
