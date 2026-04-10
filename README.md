@@ -12,8 +12,7 @@ Highly skilled Tech Lead (OPS & Application Support) with 12+ years of experienc
 - **LinkedIn Certificate in Learning Linux Shell Scripting** – 2025
 - **LinkedIn Certificate in Responsible AI:Principle and practical Applications** – 2025  
 
-📜 *View My LinkedIn Profile:* www.linkedin.com/in/manoj-kumar-82488299  
-
+📜 *View My LinkedIn Profile:* https://www.linkedin.com/in/manojkumar030592
 ## 💡 Technical Skills
 - **Programming**: Python, Shell Scripting
 - **Databases**: MySQL, Oracle, DB2 (partitioning, table space optimization, deadlock handling)
@@ -64,7 +63,7 @@ Highly skilled Tech Lead (OPS & Application Support) with 12+ years of experienc
 ## 📧 Contact  
 - **Email:** mk.fiserv@gmail.com  
 - **Location:** New Delhi, India  
-- **LinkedIn:** www.linkedin.com/in/manoj-kumar-82488299 
+- **LinkedIn:** https://www.linkedin.com/in/manojkumar030592
 
 ---
 
