@@ -1,7 +1,7 @@
 # Manoj Kumar - SRE Engineer (OPS/Application Support)
 
 ## 📌 Professional Summary 
-Highly skilled Tech Lead (OPS & Application Support) with 12+ years of experience across banking, telecom, and financial domains. Expertise in Unix, Shell Scripting, Python, and IT infrastructure automation. Adept at cloud computing (AWS), database management (MySQL, Oracle, DB2), and DevOps (Docker, Kubernetes, Jenkins, GitHub, Autosys). Passionate about streamlining workflows, optimizing system performance, and implementing scalable solutions.
+Highly skilled Lead SRE with 13+ years of experience across banking, telecom, and financial domains. Expertise in Unix, Shell Scripting, Python, and Terraform. Adept at cloud computing (AWS,AZURE), database management (MySQL, Oracle, DB2), and DevOps (Docker, Kubernetes, Jenkins, GitHub, Autosys). Passionate about streamlining workflows, optimizing system performance, and implementing scalable solutions.
 
 
 ## 📚 Qualifications  
@@ -19,13 +19,14 @@ Highly skilled Tech Lead (OPS & Application Support) with 12+ years of experienc
 - **Cloud Platforms**: AWS (EC2, S3, EBS, ELB, IAM, RDS),Azure
 - **DevOps Tools**: GitHub, Bitbucket, Stash, Jenkins, Kubernetes, Docker, Autosys
 - **Monitoring & Logging**: Splunk, Kibana, AppDynamics,Grafana,Prometheus
-- **IOC: Terraform,Ansible
+- ****IOC:** Terraform,Ansible
 - **Security & Complianc**e: SWIFT banking systems, PCI-DSS standards
 - **Operating Systems**: Unix, AIX, Linux, Solaris (application monitoring, system optimization)
  
 
 ## 🔧 Roles & Responsibilities  
-- **Infrastructure Automation:** Writing Shell/Python scripts for **system configuration, deployments, and monitoring** (Crontab/Autosys).  
+- **Infrastructure Automation:** Writing Shell/Python scripts for **system configuration, deployments, and monitoring** (Crontab/Autosys).
+- **Infrastructure provisioning**  using terraform as a (IAC). 
 - **CI/CD Management:** Streamlining software delivery pipelines using **Git, Stash, and Jenkins**.  
 - **Containerization & Orchestration:** Managing **Docker & Kubernetes** for deployment, rollback, scaling, and monitoring.  
 - **Application Support:** Troubleshooting **log analysis, RCA, and Autosys batch monitoring**.  
