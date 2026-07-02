@@ -1,71 +1,225 @@
-# Manoj Kumar - SRE Engineer (OPS/Application Support)
+# 👋 Hi, I'm Manoj Kumar
 
-## 📌 Professional Summary 
-Highly skilled Lead SRE with 13+ years of experience across banking, telecom, and financial domains. Expertise in Unix, Shell Scripting, Python, and Terraform. Adept at cloud computing (AWS,AZURE), database management (MySQL, Oracle, DB2), and DevOps (Docker, Kubernetes, Jenkins, GitHub, Autosys). Passionate about streamlining workflows, optimizing system performance, and implementing scalable solutions.
+# 🚀 Lead SRE | DevOps Engineer | Azure Cloud | Terraform | Kubernetes
 
+## 👨‍💻 Professional Summary
 
-## 📚 Qualifications  
-- **MSc-IT (2011-2014)** - PTU University, Punjab  
-- **BCA (2008-2011)** - M.J.P.R. University, Bareilly
+Lead SRE with **13+ years of experience** in Site Reliability Engineering, DevOps, Cloud Infrastructure, Production Support, and Automation across Banking, Telecom, and Financial domains.
 
-## 🎓 Certifications  
-- **LinkedIn Certificate in Learning Linux Shell Scripting** – 2025
-- **LinkedIn Certificate in Responsible AI:Principle and practical Applications** – 2025  
+Currently working as a **Lead SRE at Accenture**, building secure, scalable, and highly available cloud platforms on Microsoft Azure. Experienced in Infrastructure as Code using Terraform, Kubernetes (AKS), Docker, Azure DevOps, GitHub Actions, CI/CD automation, monitoring, and incident management.
 
-📜 *View My LinkedIn Profile:* https://www.linkedin.com/in/manojkumar030592
-## 💡 Technical Skills
-- **Programming**: Python, Shell Scripting
-- **Databases**: MySQL, Oracle, DB2 (partitioning, table space optimization, deadlock handling)
-- **Cloud Platforms**: AWS (EC2, S3, EBS, ELB, IAM, RDS),Azure
-- **DevOps Tools**: GitHub, Bitbucket, Stash, Jenkins, Kubernetes, Docker, Autosys
-- **Monitoring & Logging**: Splunk, Kibana, AppDynamics,Grafana,Prometheus
-- ****IOC:** Terraform,Ansible
-- **Security & Complianc**e: SWIFT banking systems, PCI-DSS standards
-- **Operating Systems**: Unix, AIX, Linux, Solaris (application monitoring, system optimization)
- 
-
-## 🔧 Roles & Responsibilities  
-- **Infrastructure Automation:** Writing Shell/Python scripts for **system configuration, deployments, and monitoring** (Crontab/Autosys).
-- **Infrastructure provisioning**  using terraform as a (IAC). 
-- **CI/CD Management:** Streamlining software delivery pipelines using **Git, Stash, and Jenkins**.  
-- **Containerization & Orchestration:** Managing **Docker & Kubernetes** for deployment, rollback, scaling, and monitoring.  
-- **Application Support:** Troubleshooting **log analysis, RCA, and Autosys batch monitoring**.  
-- **Monitoring & Logging:** Using **Splunk, AppDynamics, Kibana** to track system health and performance.  
-- **Security & Compliance:** Implementing best practices for **secure deployments, version updates, and access control**.  
-- **Database Administration:** Configuring alerts for **tablespace, deadlocks, partitioning** (hands-on with DB2/MySQL/Oracle).  
-
-## 🏢 Work History  
-### **1. Tech Lead (OPS Support) | Morgan Stanley(onpayroll-genpact) | Feb 2022 – Sep 2025**  
-- Configured and managed **AutoSys jobs** for reporting and alerting using **Python and Shell scripting**.  
-- Designed and maintained **Jenkins CI/CD pipelines**, using **Git and Stash** for version control.  
-- Administered **Docker containers** and supported **Kubernetes clusters** for scalable deployments.  
-- Implemented and optimized **Splunk dashboards and alerts** for log analysis and incident troubleshooting.  
-- Configured **Grafana dashboards and alert rules** for proactive monitoring.  
-- Provided **production application support**, including:
-  - Batch job monitoring and failure resolution  
-  - Component-level issue analysis and fixes  
-  - Routine hygiene tasks such as **Perl, Python, MS Java, and OSS Java library upgrades**
-  
-
-### **2. Senior Software Engineer | Wipro | Aug 2021 – Feb 2022**  
-- Maintained **Business Support Systems (BSS)** for telecom billing.  
-- Debugged Unix/Linux-based billing applications using **Shell Scripting**.  
-- Developed automation scripts to **streamline billing processes**.  
-
-### **3. Senior Software Engineer | Amdocs & IBM | Jan 2016 – Aug 2021**  
-- Supported **online payment systems** (Airtel Money, Airtel Payment Bank).  
-- Configured new **card/bank payment gateways**.  
-- Investigated **auto-pay and transaction failures**, ensuring seamless payment processing.  
-
-### **4. Senior Associate | Fiserv India Pvt. Ltd. | May 2013 – Jan 2016**  
-- Automated database **account creation & reporting** using Shell Scripting.  
-- Developed **incremental/full backup scripts** and optimized database indexing.  
-
-## 📧 Contact  
-- **Email:** mk.fiserv@gmail.com  
-- **Location:** New Delhi, India  
-- **LinkedIn:** https://www.linkedin.com/in/manojkumar030592
+Passionate about automating infrastructure, improving system reliability, reducing manual effort, and continuously learning modern cloud-native technologies.
 
 ---
 
-_This README file showcases technical expertise, automation skills, and work history in OPS Support._ 🚀 Let me know if you’d like any refinements!  
+# 🎓 Education
+
+**M.Sc. Information Technology**
+PTU University, Punjab (2011–2014)
+
+**Bachelor of Computer Applications (BCA)**
+M.J.P. Rohilkhand University, Bareilly (2008–2011)
+
+---
+
+# 📜 Certifications
+
+* LinkedIn Learning – Linux Shell Scripting (2025)
+* LinkedIn Learning – Responsible AI: Principles and Practical Applications (2025)
+
+---
+
+# 💻 Technical Skills
+
+### ☁️ Cloud
+
+* Microsoft Azure
+* Amazon Web Services (EC2, S3, IAM, ELB, EBS, RDS)
+
+### Infrastructure as Code
+
+* Terraform
+* Azure Resource Manager
+* Ansible
+
+### DevOps & CI/CD
+
+* Azure DevOps
+* GitHub Actions
+* Jenkins
+* Git
+* GitHub
+* Bitbucket
+* Stash
+
+### Containers & Kubernetes
+
+* Docker
+* Kubernetes
+* Azure Kubernetes Service (AKS)
+* Helm
+* Rancher
+* Calico
+* Kong Ingress
+
+### Monitoring & Observability
+
+* Prometheus
+* Grafana
+* Loki
+* Splunk
+* Kibana
+* AppDynamics
+
+### Programming
+
+* Python
+* Shell Scripting
+
+### Databases
+
+* Oracle
+* DB2
+* MySQL
+* PostgreSQL
+* MongoDB
+* Redis
+
+### Messaging & Streaming
+
+* Kafka
+
+### Operating Systems
+
+* Linux
+* Unix
+* AIX
+* Solaris
+
+---
+
+# 💼 Current Role
+
+## Lead SRE | Accenture
+
+**September 2025 – Present**
+
+### Responsibilities
+
+* Design and manage Azure cloud infrastructure.
+* Provision infrastructure using Terraform.
+* Build and maintain Azure DevOps and GitHub Actions CI/CD pipelines.
+* Deploy and manage applications on Azure Kubernetes Service (AKS).
+* Manage Docker containerized workloads.
+* Configure Azure Load Balancer and Application Gateway.
+* Implement monitoring using Prometheus, Grafana, and Azure Monitor.
+* Troubleshoot production incidents and perform Root Cause Analysis (RCA).
+* Automate operational tasks using Python and Shell scripting.
+* Implement infrastructure security and DevSecOps best practices.
+* Collaborate with development teams for reliable application deployments.
+
+---
+
+# 💼 Previous Experience
+
+## Tech Lead (SRE / Production Support)
+
+Morgan Stanley (On Payroll: Genpact)
+**February 2022 – September 2025**
+
+* Managed production applications for investment banking.
+* Developed automation using Python and Shell scripting.
+* Managed AutoSys batch scheduling.
+* Created Jenkins CI/CD pipelines.
+* Supported Kubernetes and Docker environments.
+* Built Grafana dashboards and Splunk alerts.
+* Performed application upgrades and production support.
+
+---
+
+## Senior Software Engineer
+
+Wipro
+**August 2021 – February 2022**
+
+* Supported Telecom BSS applications.
+* Automated operational tasks.
+* Managed Unix/Linux environments.
+
+---
+
+## Senior Software Engineer
+
+Amdocs / IBM
+**January 2016 – August 2021**
+
+* Supported Airtel Payment Bank and Airtel Money platforms.
+* Managed payment gateways.
+* Resolved production incidents.
+* Performed database and application support.
+
+---
+
+## Senior Associate
+
+Fiserv India Pvt. Ltd.
+**May 2013 – January 2016**
+
+* Unix Administration
+* Database Automation
+* Backup & Recovery
+* Oracle & DB2 Administration
+
+---
+
+# 🚀 Current Hands-on Practice
+
+* Azure Virtual Machines
+* Azure Virtual Network
+* Azure Load Balancer
+* Azure Application Gateway
+* AKS
+* Terraform Modules
+* Remote Backend
+* GitHub Actions CI/CD
+* Azure DevOps Pipelines
+* Helm Charts
+* Prometheus
+* Grafana
+* Loki
+* Kubernetes Ingress
+* Docker
+* Jenkins
+* Linux Administration
+* Infrastructure Automation
+* Site Reliability Engineering (SRE)
+
+---
+
+# 📈 Currently Learning
+
+* Advanced AKS
+* GitOps
+* ArgoCD
+* DevSecOps
+* FinOps
+* AIOps
+* MLOps
+* Kubernetes Security
+* Azure Landing Zones
+
+---
+
+# 📫 Connect With Me
+
+📍 Gurgaon, Haryana, India
+
+📧 Email: **[mk.fiserv@gmail.com](mailto:mk.fiserv@gmail.com)**
+
+💼 LinkedIn: **linkedin.com/in/manojkumar030592**
+
+---
+
+## ⭐ Goal
+
+Building enterprise-grade cloud infrastructure with Azure, Kubernetes, Terraform, CI/CD, Automation, Monitoring, and Site Reliability Engineering while continuously improving reliability, scalability, and operational excellence.
